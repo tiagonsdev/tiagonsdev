@@ -1,7 +1,19 @@
 # Bem-vindo ao meu perfil! 🎉🐧
 
-🔥 Olá, meu nome é Tiago!  
-🧠 Eu amo estudar, estou sempre buscando novos conhecimentos!
+## Olá! 👋 Bem-vindo ao meu perfil! 🚀
+
+Sou Tiago, um programador backend com foco em Java ☕ e experiência na construção de backends robustos e escaláveis. Atualmente, estou mergulhando no fascinante mundo do desenvolvimento mobile com Flutter 📱, atuando principalmente na camada de backend para este framework.
+
+Minha jornada não para por aí! Sou um entusiasta da ciência de dados 📊 e estou começando a explorar suas ferramentas e técnicas, impulsionado por uma grande paixão pela matemática ➕➖✖️➗. Acredito que a combinação de desenvolvimento backend, mobile e análise de dados oferece um leque incrível de possibilidades.
+
+Sempre aberto a novas conexões 🤝 e oportunidades de aprendizado e colaboração em projetos desafiadores. 🌱
+
+---
+
+## Projetos Atuais & Aprendizado 🛠️
+
+* **Projeto Flutter:** Atualmente desenvolvendo o backend em Java ☕ para uma aplicação Flutter 📱 [opcional: adicione uma breve descrição do projeto, se puder].
+* **Ciência de Dados:** Iniciando meus estudos em análise de dados 🔬, explorando bibliotecas como [mencione as que você está aprendendo, ex: Pandas 🐼, NumPy].
 
 ---
 
