@@ -17,9 +17,5 @@
 
 ---
 
-## Estatisticas Gerais:
-
-![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagonsdev&theme=radical)
-
 
 
