@@ -14,3 +14,10 @@
 ## Linguagens mais utilizadas:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagonsdev&layout=compact&theme=github_dark" width="400" />
+
+---
+
+## Estatisticas Gerais
+
+<img src="https://github-readme-stats.vercel.app/api?username=tiagonsdev&show_icons=true&theme=github_dark&rank_icon=github" width="400" />
+
