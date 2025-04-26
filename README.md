@@ -1,6 +1,4 @@
-# Bem-vindo ao meu perfil! 🎉🐧
-
-## Olá! 👋 Bem-vindo ao meu perfil! 🚀
+## Olá! 👋 Bem-vindo ao meu perfil! 🚀🐧
 
 Sou Tiago, um programador backend com foco em Java ☕ e experiência na construção de backends robustos e escaláveis. Atualmente, estou mergulhando no fascinante mundo do desenvolvimento mobile com Flutter 📱, atuando principalmente na camada de backend para este framework.
 
