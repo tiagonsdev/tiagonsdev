@@ -17,5 +17,7 @@
 
 ---
 
+## Você pode entrar em contato comigo por e-mail em:
 
+Email: tiagonsousaestudos@gmail.com Linkedin: https://www.linkedin.com/in/tiago-novaes-de-sousa-7304972a7/
 
