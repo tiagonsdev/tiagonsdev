@@ -12,8 +12,8 @@ Sempre aberto a novas conexões 🤝 e oportunidades de aprendizado e colaboraç
 
 ## Projetos Atuais & Aprendizado 🛠️
 
-* **Projeto Flutter:** Atualmente desenvolvendo o backend em Java ☕ para uma aplicação Flutter 📱 [opcional: adicione uma breve descrição do projeto, se puder].
-* **Ciência de Dados:** Iniciando meus estudos em análise de dados 🔬, explorando bibliotecas como [mencione as que você está aprendendo, ex: Pandas 🐼, NumPy].
+* **Projeto Flutter:** Atualmente desenvolvendo o backend em Java ☕ para uma aplicação Flutter 📱.
+* **Ciência de Dados:** Iniciando meus estudos em análise de dados 🔬.
 
 ---
 
