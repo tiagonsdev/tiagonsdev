@@ -19,6 +19,5 @@
 
 ## Você pode entrar em contato comigo em:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu_nome_de_usuario/](https://www.linkedin.com/in/tiago-novaes-de-sousa-7304972a7/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-novaes-de-sousa/)
 
